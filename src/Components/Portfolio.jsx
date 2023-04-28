@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A MotorBike Company's Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A basic website for a motorbike company,which allows its services to be accessed online.",
+    url: "https://anmoltiwari0712.github.io/motorbikecomp.github.io/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Blue Learn (Clone)",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "BlueLearn is a student community that provides a one-stop platform for students to learn new skills, network with peers.",
+    url: "https://anmoltiwari0712.github.io/BLUELEARN_CLONE.github.io/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A Website Made With Html, Css, Javascript and Bootstrap to showcase my work.",
+    url: "https://anmoltiwari0712.github.io/Portfolio/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Simon Game",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The Simon game is the exciting electronic game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order.",
+    url: "https://anmoltiwari0712.github.io/simongame.github.io/",
   },
 ];
 
