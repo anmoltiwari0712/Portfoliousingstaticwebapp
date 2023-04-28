@@ -27,11 +27,11 @@ const siteProps = {
   name: "Anmol Tiwari",
   title: "Web Designer & Content Creator",
   email: "oanmoltiwari7@gmail.com",
-  gitHub: "https://github.com/anmoltiwari0712",
-  instagram: "https://www.instagram.com/oanmoltiwari7/",
-  linkedIn: "https://www.linkedin.com/in/anmol-tiwari-0bbb14227/",
+  gitHub: "anmoltiwari0712",
+  instagram: "oanmoltiwari7",
+  linkedIn: "anmol-tiwari-0bbb14227",
   medium: "",
-  twitter: "https://twitter.com/oanmoltiwari7",
+  twitter: "oanmoltiwari7",
   youTube: "https://www.youtube.com/channel/UCOxXIz9W47IIwGDQb6JEt9w",
 };
 
